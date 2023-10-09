@@ -1,0 +1,11 @@
+<svg
+        class="icon"
+        viewBox="0 0 1024 1024"
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+>
+    <title>分页</title>
+    <path d="M912 64v256H112V64h66.688v192h666.688V64zM112 960v-256h800v256h-66.624v-192H178.688v192zM64 448h896v128H64z"/>
+</svg>
